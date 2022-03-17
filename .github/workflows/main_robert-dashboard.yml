@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'Robert-Dashboard'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_26AEBF43F4CA4FD9AE3548AB76883AAD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_77A3EA12530A43AE99EE897B84B59F1D }}
           package: .
